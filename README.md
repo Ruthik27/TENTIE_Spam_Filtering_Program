@@ -1,2 +1,2 @@
-# Scrappy
+# Email Spam Detection 
  
