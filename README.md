@@ -1,4 +1,4 @@
-# Spam Filter using Machine Learning and Artificial Intelligence
+# TENTIE - The Spam Filtering Program
 
 ## Project Description
 With the increase in advanced technologies, it has revolutionized how people communicate. Communication done via electronic mail (e-mail) has become easier and faster. However, it has also contributed to rapid dissemination of unwanted messages, e.g. spam emails. Spam emails pose many threats, such as harm to personal devices and or theft of personal information. Inspired by Paul Graham's work, this project addresses this issue by creating a spam filter using state-of-the-art methods in machine learning and artificial intelligence: Naive Bayes and Deep Learning. 
